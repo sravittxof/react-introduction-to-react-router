@@ -210,15 +210,13 @@ __pushState()__ within the context of a __React__ app.
 The web was designed, from its inception, to be a platform for _everyone_,
 including those who need help interacting with it through assistive devices.
 Those requiring captions, inverted contrast, etc. have all been able to
-participate in _our_ web because it was designed with the differently-abled
-in mind _from the beginning_.
+participate in the web because it was designed with accessibility in mind _from
+the beginning_.
 
-Creating accessible sites using SPA-style applications represents an
-additional challenge. Many tutorials breeze past this consideration.
-
-Designing SPA's that work with accessibility in mind proves you that you're not
-only a superior developer, but a great person. Here's a [blog post][bp] on
-accessibility in React.
+Creating accessible sites using SPA-style applications represents an additional
+challenge. Many tutorials breeze past this consideration; if you'd like to
+explore this topic more deeply, here's a [blog post][bp] on accessibility in
+React.
 
 ## Resources
 
